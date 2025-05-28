@@ -7,11 +7,10 @@ const saludo = function(nombre, apellido) { <br>
 > saludo(nombre, apellido);  
 > output: Hola, me llamo Enmanuel Núñez
 
-### Soy de República Dominicana, tengo 17 años, me gusta mucho la programación y jugas baloncesto. 
+### Soy de República Dominicana, tengo 17 años, me gusta mucho la programación, jugar baloncesto y escuchar música. Bienvenido seas a mi perfil. 👋
 
-### Estoy estudiando programación, específicamente desarollo web. Tengo conocimiento básicos sobre HTML, CSS y JavaScript.
-
-### Espero entrar a la academia para aprender nuevas cosas y reforzar mis conocimientos, así como tener la oportunidad de encontrar un buen empleo y vivir de lo que me gusta.
+### Soy un entusiasta de la tecnología, me gusta todo lo que tenga que ver con computación y programacón.
+### Me gista mucho hacer proyectos personales (que nunca termino) y aprender cosas cosas nuevas y nunca parar de aprender.
 
 ## Hobbies 
 - Me gusta jugar videojuegos.
