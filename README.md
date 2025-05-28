@@ -4,7 +4,7 @@ const saludo = function(nombre, apellido) { <br>
 &nbsp;&nbsp;&nbsp;&nbsp;console.log("Hola, me llamo ${nombre} ${adios}); <br>
 };  
 
-> saludo(nombre, apellido);
+> saludo(nombre, apellido);  
 > output: Hola, me llamo Enmanuel Núñez
 
 ### Hola, me llamo Enmanuel, soy de República Dominicana, tengo 17 años, me gusta mucho la programación y jugas baloncesto. 
