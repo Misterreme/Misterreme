@@ -7,7 +7,7 @@ const saludo = function(nombre, apellido) { <br>
 > saludo(nombre, apellido);  
 > output: Hola, me llamo Enmanuel Núñez
 
-### Hola, me llamo Enmanuel, soy de República Dominicana, tengo 17 años, me gusta mucho la programación y jugas baloncesto. 
+### Soy de República Dominicana, tengo 17 años, me gusta mucho la programación y jugas baloncesto. 
 
 ### Estoy estudiando programación, específicamente desarollo web. Tengo conocimiento básicos sobre HTML, CSS y JavaScript.
 
