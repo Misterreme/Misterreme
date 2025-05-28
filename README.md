@@ -1,7 +1,7 @@
 > const nombre = "Enmanuel";   
 > const apellido = "Núñez";   
 const saludo = function(nombre, apellido) { <br>
-&nbsp;&nbsp;&nbsp;&nbsp;console.log("Hola, me llamo ${nombre} ${adios}); <br>
+&nbsp;&nbsp;&nbsp;&nbsp;console.log("Hola, me llamo ${nombre} ${apellido}); <br>
 };  
 >  
 > saludo(nombre, apellido);  
