@@ -1,16 +1,20 @@
-## Hi there 👋
+> const nombre = "Enmanuel";   
+> const apellido = "Núñez";   
+const saludo = function(nombre, apellido) { <br>
+&nbsp;&nbsp;&nbsp;&nbsp;console.log("Hola, me llamo ${nombre} ${adios}); <br>
+};  
 
-<!--
-**Misterreme/Misterreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+saludo(nombre, apellido);
+> output: Hola, me llamo Enmanuel Núñez
 
-Here are some ideas to get you started:
+### Hola, me llamo Enmanuel, soy de República Dominicana, tengo 17 años, me gusta mucho la programación y jugas baloncesto. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estoy estudiando programación, específicamente desarollo web. Tengo conocimiento básicos sobre HTML, CSS y JavaScript.
+
+### Espero entrar a la academia para aprender nuevas cosas y reforzar mis conocimientos, así como tener la oportunidad de encontrar un buen empleo y vivir de lo que me gusta.
+
+## Hobbies 
+- Me gusta jugar videojuegos.
+- Me gusta jugar baloncesto.
+- Me gusta (amo) escuchar música.
+- Me gusta programar.
