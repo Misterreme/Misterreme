@@ -41,6 +41,8 @@ Me considero una persona curiosa, autodidacta y comprometida con el aprendizaje 
 **Aplicacion de FlashCards hecha en ElectronJs.**  
 *Enfoque en UI y simplicidad*
 
+---
+
 [![FlashCards App](https://img.shields.io/badge/MITECH-cyan?style=for-the-badge&logo=cards&labelColor=white
 )](https://mitech.com.do/)
 
